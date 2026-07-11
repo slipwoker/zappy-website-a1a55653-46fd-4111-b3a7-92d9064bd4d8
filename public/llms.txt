@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-a1a55653.zappy5.app
+https://example.com
 גלו את הנעליים המושלמות לעובדי קמעונאות שיעיפו אתכם באוויר לאורך כל המשמרת. נוחות בלתי מתפשרת, עמידות מטורפת ועיצוב שישאיר אתכם עם חיוך גם אחרי שעות על הרגליים. היכנסו עכשיו!
 
 ### מדריך התאמה
-https://-a1a55653.zappy5.app/fit-guide
+https://example.com/fit-guide
 עובדים בקמעונאות? אל תתפשרו על מידה לא נכונה! מדריך ההתאמה שלנו יוביל אתכם צעד אחר צעד למציאת הנעל האידיאלית שתגן על הרגליים שלכם משעות עמידה ארוכות. התחילו למדוד נכון.
 
 ### גלריית סגנונות
-https://-a1a55653.zappy5.app/style-gallery
+https://example.com/style-gallery
 צפו בגלריית הסגנונות החדשה שלנו לנעלי קמעונאות – משלבות מראה סופר אופנתי עם טכנולוגיית נוחות מתקדמת. תראו איך אפשר להתלבש יפה ולהישאר קלילים על הרגליים כל היום. שאבו השראה!
 
 ### אודות
-https://-a1a55653.zappy5.app/about
+https://example.com/about
 אנחנו ברגל באוויר מאמינים שלעובדי קמעונאות מגיע ללכת על עננים. הכירו את המותג שנולד כדי לשחרר אתכם מכאבי רגליים עם נעליים שפיתחנו במיוחד לאנשים שעומדים כל היום. בואו להכיר אותנו.
 
 ### צור קשר
-https://-a1a55653.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על הנעליים הכי טובות לעבודה בקמעונאות? צרו איתנו קשר וקבלו ייעוץ אישי שיהפוך כל משמרת לחוויה אוורירית. אנחנו כאן כדי להרים לכם את הרגליים – פנו אלינו עוד היום!
 
 ### Products
-https://-a1a55653.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - רגל באוויר
 
 ### Cart
-https://-a1a55653.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-a1a55653.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-a1a55653.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-a1a55653.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-a1a55653.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-a1a55653.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - רגל באוויר
 
 ### Category
-https://-a1a55653.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - רגל באוויר
 
 ### תודה - רגל באוויר
-https://-a1a55653.zappy5.app/thank-you
+https://example.com/thank-you
 רגל באוויר - תודה - רגל באוויר
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-a1a55653.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-a1a55653.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-a1a55653.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Footwear Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-a1a55653.zappy5.app/sitemap.xml
-- Robots: https://-a1a55653.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-a1a55653.zappy5.app/llms-full.txt
-- Products (JSON): https://-a1a55653.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-a1a55653.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

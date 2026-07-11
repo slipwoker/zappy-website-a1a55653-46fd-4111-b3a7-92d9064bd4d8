@@ -2,13 +2,13 @@
 
 חנות נעליים
 
-Source: https://-a1a55653.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הנעליים הכי טובות לעובדים בקמעונאות — רגל באוויר
 
-URL: https://-a1a55653.zappy5.app
+URL: https://example.com
 Description: גלו את הנעליים המושלמות לעובדי קמעונאות שיעיפו אתכם באוויר לאורך כל המשמרת. נוחות בלתי מתפשרת, עמידות מטורפת ועיצוב שישאיר אתכם עם חיוך גם אחרי שעות על הרגליים. היכנסו עכשיו!
 
 הנעליים הכי טובות לעובדים בקמעונאות — רגל באוויר
@@ -480,7 +480,7 @@ Description: גלו את הנעליים המושלמות לעובדי קמעונ
 
 ## התאימו את הנעל המושלמת לעבודה בחנות — רגל באוויר
 
-URL: https://-a1a55653.zappy5.app/fit-guide
+URL: https://example.com/fit-guide
 Description: עובדים בקמעונאות? אל תתפשרו על מידה לא נכונה! מדריך ההתאמה שלנו יוביל אתכם צעד אחר צעד למציאת הנעל האידיאלית שתגן על הרגליים שלכם משעות עמידה ארוכות. התחילו למדוד נכון.
 
 התאימו את הנעל המושלמת לעבודה בחנות — רגל באוויר
@@ -976,7 +976,7 @@ Description: עובדים בקמעונאות? אל תתפשרו על מידה ל
 
 ## סגנון שלא עוצר גם במשמרת כפולה — רגל באוויר
 
-URL: https://-a1a55653.zappy5.app/style-gallery
+URL: https://example.com/style-gallery
 Description: צפו בגלריית הסגנונות החדשה שלנו לנעלי קמעונאות – משלבות מראה סופר אופנתי עם טכנולוגיית נוחות מתקדמת. תראו איך אפשר להתלבש יפה ולהישאר קלילים על הרגליים כל היום. שאבו השראה!
 
 סגנון שלא עוצר גם במשמרת כפולה — רגל באוויר
@@ -1435,7 +1435,7 @@ Description: צפו בגלריית הסגנונות החדשה שלנו לנעל
 
 ## הסיפור שמאחורי הרגליים המאושרות — רגל באוויר
 
-URL: https://-a1a55653.zappy5.app/about
+URL: https://example.com/about
 Description: אנחנו ברגל באוויר מאמינים שלעובדי קמעונאות מגיע ללכת על עננים. הכירו את המותג שנולד כדי לשחרר אתכם מכאבי רגליים עם נעליים שפיתחנו במיוחד לאנשים שעומדים כל היום. בואו להכיר אותנו.
 
 הסיפור שמאחורי הרגליים המאושרות — רגל באוויר
@@ -1833,7 +1833,7 @@ Description: אנחנו ברגל באוויר מאמינים שלעובדי קמ
 
 ## צעד קטן לרגל, קפיצה גדולה לנוחות — רגל באוויר
 
-URL: https://-a1a55653.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לכם שאלה על הנעליים הכי טובות לעבודה בקמעונאות? צרו איתנו קשר וקבלו ייעוץ אישי שיהפוך כל משמרת לחוויה אוורירית. אנחנו כאן כדי להרים לכם את הרגליים – פנו אלינו עוד היום!
 
 צעד קטן לרגל, קפיצה גדולה לנוחות — רגל באוויר
@@ -2255,7 +2255,7 @@ Description: יש לכם שאלה על הנעליים הכי טובות לעבו
 
 ## מוצרים
 
-URL: https://-a1a55653.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - רגל באוויר
 
 מוצרים - רגל באוויר
@@ -2660,7 +2660,7 @@ Description: המוצרים שלנו - רגל באוויר
 
 ## עגלת קניות
 
-URL: https://-a1a55653.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - רגל באוויר
@@ -2907,7 +2907,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://-a1a55653.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - רגל באוויר
@@ -3340,7 +3340,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://-a1a55653.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - רגל באוויר
@@ -3594,7 +3594,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://-a1a55653.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - רגל באוויר
@@ -4003,7 +4003,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://-a1a55653.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - רגל באוויר
@@ -4274,7 +4274,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://-a1a55653.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - רגל באוויר
@@ -4574,7 +4574,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://-a1a55653.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - רגל באוויר
 
 פרטי המוצר - רגל באוויר
@@ -4823,7 +4823,7 @@ Description: פרטי המוצר - רגל באוויר
 
 ## מוצרים
 
-URL: https://-a1a55653.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - רגל באוויר
 
 מוצרים - רגל באוויר
@@ -5096,7 +5096,7 @@ Description: מוצרים - רגל באוויר
 
 ## מדיניות פרטיות
 
-URL: https://-a1a55653.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5371,7 +5371,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-a1a55653.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5655,7 +5655,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-a1a55653.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5958,7 +5958,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה - רגל באוויר
 
-URL: https://-a1a55653.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: רגל באוויר - תודה - רגל באוויר
 
 תודה - רגל באוויר
